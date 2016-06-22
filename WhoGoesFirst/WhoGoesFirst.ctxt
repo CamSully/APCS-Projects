@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=WhoGoesFirst()
+comment1.params=nameList
+comment1.target=java.lang.String\ selector(java.util.ArrayList)
+comment1.text=\r\n\ selector\ takes\ a\ list\ of\ names\ as\ input\ and\ returns\ the\ selected\ first\ player.\r\n\ \r\n\ @param\ ArrayList<String>\ nameList\ The\ list\ of\ players'\ names.\r\n\ @retrun\ name\ The\ name\ of\ the\ selected\ player.\r\n
+numComments=2

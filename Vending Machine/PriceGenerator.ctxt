@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=thermo
+comment0.target=PriceGenerator(Thermometer)
+comment1.params=
+comment1.target=double\ getPrice()
+comment1.text=\r\n\ getPrice\ calculates\ the\ price\ of\ the\ user's\ soda,\ given\ the\ temperature\ outside.\r\n\ \r\n\ @param\ none\r\n\ @return\ price\r\n
+numComments=2

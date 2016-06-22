@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=void\ tellGuess()
+comment1.text=\r\n\ TellGuess\ is\ a\ private\ method\ that\ allows\ the\ user\ to\ tell\ the\ computer\ if\ the\ computer's\ guess\ was\ too\ high\ or\ too\ low.\r\n\ \r\n\ @param\ none\r\n\ @return\ none\r\n
+numComments=2

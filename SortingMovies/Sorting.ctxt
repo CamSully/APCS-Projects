@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=dvdCollection\ length
+comment0.target=void\ insertionSort(java.lang.Comparable[],\ int)
+comment0.text=\r\n\ insertionSort()\ uses\ the\ insertion\ sorting\ algorithm\ to\ sort\ films\ by\ alphabetical\ title\ order.\r\n\ \r\n\ @param\ dvdCollection\ the\ collection\ to\ be\ sorted\r\n\ @param\ length\ the\ number\ of\ DVDs\ in\ the\ collection\r\n\ @return\ none\r\n
+numComments=1

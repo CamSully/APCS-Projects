@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=name\ cardNumber\ initialFunds
+comment0.target=EZPass(java.lang.String,\ int,\ double)
+comment0.text=\r\n\ Creates\ an\ EZPass\ for\ the\ card\ holder\ with\ an\ entered\ credentials\ and\ initial\ balance\ on\ the\ card.\r\n\ Note\ that\ a\ $10\ deposit\ will\ be\ subtracted\ from\ the\ balance\ of\ the\ card.\r\n\ Note\ that\ the\ cardNumber\ must\ be\ at\ least\ 5\ digits.\r\n
+comment1.params=
+comment1.target=void\ roadToll()
+comment2.params=
+comment2.target=void\ bridgeToll()
+comment3.params=
+comment3.target=void\ tunnelToll()
+comment4.params=
+comment4.target=void\ checkBalance()
+comment5.params=funds
+comment5.target=void\ addFunds(double)
+numComments=6

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DVDCollection()
+comment1.params=title\ director\ year\ cost\ bluRay
+comment1.target=void\ addDVD(java.lang.String,\ java.lang.String,\ int,\ double,\ boolean)
+comment1.text=\r\n\ addDVD()\ allows\ a\ new\ DVD\ to\ be\ added\ to\ the\ collection\r\n\ \r\n\ @param\ title,\ director,\ year,\ cost,\ bluRay\r\n\ @return\ none\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=java.lang.String\ toString2()
+comment3.text=\r\n\ toString2()\ is\ a\ duplicated\ toString()\ that\ makes\ a\ report\ for\ the\ unsorted\ collection\ (needed\ for\ showing\ the\ user\ in\ Movies\ class).\r\n\ \r\n\ @param\ none\r\n\ @return\ none\r\n
+comment4.params=
+comment4.target=int\ getCount()
+comment4.text=\r\n\ getCount()\ returns\ the\ number\ of\ DVD's\ added\ for\ use\ in\ Sorting\ class.\r\n\ \r\n\ @param\ none\r\n\ @return\ count\r\n
+numComments=5
