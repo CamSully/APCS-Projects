@@ -1,4 +1,4 @@
-My projects for the 2016 Advanced Placement Computer Science course.
+## My projects for the 2016 Advanced Placement Computer Science course.
 
 The AP Computer Science course was an online high school class, managed by the organization AP4ALL.
 My class began at the beginning of my senior year of high school (September 2015), and concluded with the AP Test on May 3rd, 2016.

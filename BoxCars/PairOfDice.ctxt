@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.params=Args
-comment0.target=void\ main(java.lang.String[])
-comment1.params=
-comment1.target=int\ roll()
-comment1.text=\r\n\ Method\ roll\ is\ used\ to\ roll\ two\ dice\ and\ return\ the\ sum\ of\ their\ values.\r\n\ \r\n\ @return\ roll_sum\ The\ sum\ of\ the\ two\ dices'\ values\ is\ stored\ for\ later\ use.\r\n
-numComments=2

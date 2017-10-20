@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.params=title\ director\ year\ cost\ bluRay
-comment0.target=DVD(java.lang.String,\ java.lang.String,\ int,\ double,\ boolean)
-comment1.params=
-comment1.target=java.lang.String\ toString()
-comment2.params=dvd2
-comment2.target=int\ compareTo(java.lang.Object)
-comment2.text=\r\n\ compareTo()\ implements\ the\ method\ from\ the\ Comparable\ Interface\ to\ compare\ two\ titles\ (alphabetically).\r\n\ \r\n\ @param\ dvd2\ the\ object\ to\ be\ compared\ to\r\n\ @return\ compVal\ the\ value\ of\ comparison\r\n
-numComments=3
